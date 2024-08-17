@@ -24,13 +24,13 @@ Later on I asked my friend Adriano Amaral from ADR Eletronics to solder the bare
 
 Overhead view of the soldered probes and the Connector in relation to the main Keyboard PCB
 
-![Soldered Jumper Cables overview with main PCB showing](probes-soldered-distance.jpg "Overhead view of the soldered probes and the Connector in relation to the main Keyboard PCB")
+![Soldered Jumper Cables overview with main PCB showing](probes-soldered-interface.jpg "Overhead view of the soldered probes and the Connector in relation to the main Keyboard PCB")
 
 # Closer look at the Soldered Connector with Jumper Cables exiting drilled hole
 
 Raphaela Elpidio from Circuit Bending Brazil also drilled a hole to the back of the Keyboard Top-Cover allowing free flow of Jumper Cables
 
-![Closer look at the Soldered Connector with Jumper Cables exiting drilled hole](probes-soldered-interface.jpg "Raphaela Elpidio from Circuit Bending Brazil also drilled a hole to the back of the Keyboard Top-Cover allowing free flow of Jumper Cables")
+![Closer look at the Soldered Connector with Jumper Cables exiting drilled hole](probes-soldered-distance.jpg "Raphaela Elpidio from Circuit Bending Brazil also drilled a hole to the back of the Keyboard Top-Cover allowing free flow of Jumper Cables")
 
 # Covered Keyboard with Jumper Cables entering the Arduino Leonardo
 
