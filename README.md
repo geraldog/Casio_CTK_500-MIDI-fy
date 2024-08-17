@@ -1,6 +1,6 @@
 # Casio CTK-500 MIDI-fy
 
-http://amatriz.net/posts/CTK-500-MIDI-fy.html
+http://amatriz.net/posts/midi-fy-ing-a-casio-ctk-500-keyboard-with-arduino-leonardo/
 
 # Arduino Leonardo pin-out to CTK-500 Keyboard Flat Connector
 
