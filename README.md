@@ -37,6 +37,8 @@ Raphaela Elpidio from Circuit Bending Brazil also drilled a hole to the back of 
 
 # Covered Keyboard with Jumper Cables entering the Arduino Leonardo
 
-Ready for Playing
+Ready for Playing.
+
+I would like to thank my good friend Abrahão Jr. who believed in the project from day-0 and gifted me with a power-supply for the Casio.
 
 ![Covered Keyboard with Jumper Cables entering the Arduino Leonardo](covered-and-trimmed.jpg "Ready for Playing")
